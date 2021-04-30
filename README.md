@@ -22,8 +22,10 @@ build scraper to download video from www.aparat.com
 
 Project is created with:
 
-* Python: 3.9
-* pika: 1.2.0
+* Python: 3.9.4
+* bs4: 4.9.3
+* requests: 2.25.1
+
 
 ## Help
 
@@ -54,7 +56,7 @@ source venv/bin/activate
 
 ## Credits
 
-* [mongard](https://www.mongard.ir/courses/rabbitmq/episode/352/rabbitmq-more/)
+* [mongard](https://www.mongard.ir/courses/pyaparat/)
 
 ## Contributors
 
