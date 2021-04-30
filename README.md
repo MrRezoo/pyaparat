@@ -2,7 +2,7 @@
 
 ![python](assets/1_DkpdC3lSQ6P4sXLVWPcpyA.png)
 
-Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
+Hello my friends this is [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## Table of contents
 
