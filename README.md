@@ -1,6 +1,6 @@
 # pyaparat
 
-![python](assets/rabbitmq-beginners-updated.png)
+![python](assets/1_DkpdC3lSQ6P4sXLVWPcpyA.png)
 
 Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
 
