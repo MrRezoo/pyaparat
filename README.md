@@ -1,4 +1,4 @@
-# Prject-Name
+# pyaparat
 
 ![python](assets/rabbitmq-beginners-updated.png)
 
@@ -16,7 +16,7 @@ Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## General info
 
-Work on rabbitMQ with python language . . .
+build scraper to download video from www.aparat.com
 
 ## Technologies
 
