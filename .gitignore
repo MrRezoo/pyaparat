@@ -4,6 +4,10 @@
 
 .idea
 .idea/
+build/
+dist/
+pyaparat2.egg-info/
+pyaparat2/setup.py
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
