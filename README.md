@@ -26,7 +26,6 @@ Project is created with:
 * bs4: 4.9.3
 * requests: 2.25.1
 
-
 ## Help
 
 If you are considering a particular method, more modern technology Add to my
@@ -52,7 +51,15 @@ source venv/bin/activate
 ```shell
  pip install -r requirements.txt
 ```
-* last step `follow the directories`
+
+* last step
+
+```python
+from pyaparat import Main
+
+a = Main('url', 'quality')
+a.download()
+```
 
 ## Credits
 
