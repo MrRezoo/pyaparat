@@ -12,7 +12,9 @@ class Main:
     def download(self):
         video_url = str(self.scraper.get_link())
         video_name = video_url.split('/')
-        with open(video_name[4], 'wb') as f:
+
+        video_name = video_name[4].split('?')
+        with open(video_name[0], 'wb') as f:
             print('Downloading...')
             result = requests.get(video_url, stream=True)
             total = result.headers.get('content-length')
