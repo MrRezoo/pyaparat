@@ -16,7 +16,7 @@ qualities = {
 }
 
 
-class Scrapper:
+class Scraper:
     def __init__(self, url, quality=None):
         self.url = url
         self.quality = quality
@@ -38,7 +38,7 @@ class Scrapper:
                 f'available qualities are {available_qualities}')
         else:
             link = links[qualities[self.quality]]
-            return link,links
+            return link
 
     def get_qualities(self):
         links = self.get_all_links()
@@ -51,8 +51,3 @@ class Scrapper:
         return available_qualities
 
 
-s = Scrapper('https://www.aparat.com/v/1LV4i', '240')
-
-link, links = s.get_link()
-print(link)
-print(links)
